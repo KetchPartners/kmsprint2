@@ -1,1 +1,42 @@
-theme: jekyll-theme-cayman
+theme: "jekyll-theme-slate"
+title: "SAP Commercial Project Management"
+description: "Using SAP Commercial Project Management to enable the management of prjs  that require light assembly"
+show_downloads: false
+markdown: kramdown
+google_analytics: UA-113301314-1
+github: [metadata]
+repository: ketchpartners/kmsprint2
+url: "https://ketchpartners.github.io/kmsprint2"
+baseurl: "/"
+encoding: UTF-8
+kramdown:
+ input: GFM
+ hard_wrap: false
+future: true
+jailed: false
+gfm_quirks: paragraph_end
+disqus: davebeach
+plugins:
+  - "jekyll-github-metadata"
+  - "jekyll-watch"
+  - "jekyll-coffeescript"
+  - "disqus-for-jekyll"
+defaults:
+  -
+    scope:
+      path: "/assets/images"
+    values:
+      image: true
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+      page.author: "David Beach"
+safe:                 false
+include:              [".htaccess"]
+exclude:              ["Gemfile", "Gemfile.lock", "bower_components", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/"]
+keep_files:           [".git", ".svn"]
+encoding:             "utf-8"
+markdown_ext:         "markdown,mkdown,mkdn,mkd,md"
+strict_front_matter: false
