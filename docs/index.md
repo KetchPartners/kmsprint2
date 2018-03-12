@@ -49,7 +49,7 @@ sprint-schedule|Where you discuss upcoming sprints and requirements.
   - /call to call the participants in a thread.
   - To get other / commands go into Slack and enter / and your options will be displayed.  
 
-10.  Email is no longer an acceptable forum for this project's design deciscions etc.  If it is email and not on Slack, the requirement doesn't count and will not be done.  Only items on Slack and our other supporting apps will be considered.  The goal of this project, is to reduce meetings to only when necessary and to elimiante the need for emails.
+10.  Email is no longer an acceptable form for this project's design deciscions etc.  If it is email and not on Slack, the requirement doesn't count and will not be done.  Only items on Slack and our other supporting apps will be considered.  The goal of this project, is to reduce meetings to only when necessary and to elimiante the need for emails.
 
 11.  Please reach out if you have any questions by putting in the comments on each web page, your question and name. In slack enter /help-me.
 
