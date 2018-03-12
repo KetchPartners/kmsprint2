@@ -28,7 +28,7 @@ kanban         |Listens for updates to Agile boards for project.
 red-alert      |Escalated subjects to PMO for resolution                  
 sprint-schedule|Where you discuss upcoming sprints and requirements.      
 
-4. Officially we track issues for Sprint 2 (here)[https://tree.taiga.io/project/davebeach-km-rollout/issues].  To make it into the github issues repository you can do one of the following.
+4. Officially we track issues for Sprint 2 [here](https://tree.taiga.io/project/davebeach-km-rollout/issues).  To make it into the github issues repository you can do one of the following.
   - On this page, please add a comment where you put /issue at the start.  It is best that you are logged onto your KM mail account, as this will align the comment to the right person etc.
   - In Axure process flow or prototype construction and review.  Axure automatically notifies Slack channel sprint2biz.
   - Or you can create an issue in Taiga, and this will workflow to us for inclusion in github id. [Link here.](https://tree.taiga.io/project/davebeach-km-rollout/issues)
@@ -56,7 +56,8 @@ sprint-schedule|Where you discuss upcoming sprints and requirements.
 11.  Please reach out if you have any questions by putting in the comments on each web page, your question and name. In slack enter /help-me.
 
 12.  As Tiaga was down during our meeting, when the server came back up, I ran through Tiaga and you can watch on this youtube video:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFiV6yAOSjo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+{% include tiaga-video.html %}
 
 13.  Next steps - we will be getting into the process flow details and reqired detailed decisions.  You can find details of the process flow and prototype work in progress, at this [link]({{ '/sprint2.html' | relative_url }}).
 
