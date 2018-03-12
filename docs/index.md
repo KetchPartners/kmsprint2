@@ -8,23 +8,24 @@ comments: true
 ## Ketch Sprint 2 Working Directory for KMUSS Project
 
 ### Required Tasks to be Completed by Tuesday March 13, 2018
-1. Please complete this questionaire [at this link](/questionaire.md)
+1. Please complete this questionaire [at this link]({{ '/questions.html'| relative_url }})
 2. Please review the Agile Boards for Overall Project and Sprint 2.  
   - Epic list of requirments can be found [here](https://tree.taiga.io/project/davebeach-km-rollout/epics).  
-  - Requirements backlog can be found[here](https://tree.taiga.io/project/davebeach-km-rollout/backlog).
+  - Requirements backlog can be found [here](https://tree.taiga.io/project/davebeach-km-rollout/backlog).
     - Use case stories - click on the button labelled "Add a New User Story".  This will take you into a dialogue to create a user story.  Please provide details and how it relates to the sprint and items being implemented.  User stories become testing components.
     - Each requirement is specified as a user story.
     - Each user story, is moved from backlog to an actual sprint.  
     - Each sprint has it's own task board.  This is where user stories and issues get pushed down to more detailed tasks to be completed.  On right sidebar under sprint 2, click on "sprint taskboard" or use this [link](https://tree.taiga.io/project/davebeach-km-rollout/taskboard/sprint-2-5806).
 3. Review Important Slack Channels:
 Slack project is [KM Ketch Project](https://ketchkmproject.slack.com)
-|Channel        | Purpose.                                                 | 
-|:--------------|:---------------------------------------------------------|
-|sprint2biz     |Central business channel for the sprint.  Starting Point. |
-|sprint2tech    |For IT technical teams to get geeky.  Anyone welcome.     |
-|kanban         |Listens for updates to Agile boards for project.          |
-|red-alert      |Escalated subjects to PMO for resolution                  |
-|sprint-schedule|Where you discuss upcoming sprints and requirements.      |
+
+Channel        | Purpose                                                 
+---------------|----------------------------------------------------------|
+sprint2biz     |Central business channel for the sprint.  Starting Point. 
+sprint2tech    |For IT technical teams to get geeky.  Anyone welcome.     
+kanban         |Listens for updates to Agile boards for project.          
+red-alert      |Escalated subjects to PMO for resolution                  
+sprint-schedule|Where you discuss upcoming sprints and requirements.      
 
 4. Officially we track issues for Sprint 2 (here)[https://github.com/KetchPartners/kmsprint2/issues].  To make it into the github issues repository you can do one of the following.
   - On this page, please add a comment where you put /issue at the start.  It is best that you are logged onto your KM mail account, as this will align the comment to the right person etc.
@@ -52,7 +53,7 @@ Slack project is [KM Ketch Project](https://ketchkmproject.slack.com)
 
 11.  Please reach out if you have any questions by putting in the comments on each web page, your question and name. In slack enter /help-me.
 
-12.  Next steps - we will be getting into the process flow details and reqired detailed decisions.
+12.  Next steps - we will be getting into the process flow details and reqired detailed decisions.  You can find details of the process flow and prototype work in progress, at this [link]({{ '/sprint2.html' | relative_url }}).
 
 
 
