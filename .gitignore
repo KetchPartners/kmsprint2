@@ -5,3 +5,7 @@ _site/
 docs/_site/
 
 .DS_Store
+
+
+kmsprint2.sublime-project
+kmsprint2.sublime-workspace
