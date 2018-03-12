@@ -7,6 +7,7 @@ comments: true
 
 ## Ketch Sprint 2 Working Directory for KMUSS Project
 
+
 ### Required Tasks to be Completed by Tuesday March 13, 2018
 1. Please complete this questionaire [at this link]({{ '/questions.html'| relative_url }})
 2. Please review the Agile Boards for Overall Project and Sprint 2.  
@@ -54,11 +55,5 @@ sprint-schedule|Where you discuss upcoming sprints and requirements.
 11.  Please reach out if you have any questions by putting in the comments on each web page, your question and name. In slack enter /help-me.
 
 12.  Next steps - we will be getting into the process flow details and reqired detailed decisions.  You can find details of the process flow and prototype work in progress, at this [link]({{ '/sprint2.html' | relative_url }}).
-
-
-
-
-
-
 
 
