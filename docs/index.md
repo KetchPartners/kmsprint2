@@ -17,14 +17,14 @@ comments: true
 ### Tasks Pending March 19, 2018
 
 **Top Priority**:
-  -  CRM/CPM/CPQ change in process proposed.  We need to discuss further to nail down this design.  See ![New Process Flow]( {{ '/assets/images/bpmn-process-flow-sales-cpm.jpg', relative_url}} ) 
+  -  CRM/CPM/CPQ change in process proposed.  We need to discuss further to nail down this design.  See ![New Process Flow](https://ketchpartners.github.io/kmsprint2/assets/images/bpmn-process-flow-sales-cpm.jpg) 
 
 **Review Answers to Business Questions**:
   -  Question on project collaboration tool.  See response [here](https://slack-files.com/T86E9TZ8Q-F9S031H2R-589f427c93).   
   -  Logic of workflow routings.  See response [here](https://slack-files.com/T86E9TZ8Q-F9S05RFHB-f7049d4393).   
   -  Process and Ability to Assign Status.  See response [here](https://slack-files.com/T86E9TZ8Q-F9RR5TAUC-a2f1d5dee2). 
   -  Business Partner Types to Assign Roles and People to Steps, Objects etc.  See response [here](https://slack-files.com/T86E9TZ8Q-F9RP85LGK-a8ee96bf25).  
-  -.  Updates to Sales Team.  See response [here](https://slack-files.com/T86E9TZ8Q-F9S0A2JE9-27160f1e97).   
+  -  Updates to Sales Team.  See response [here](https://slack-files.com/T86E9TZ8Q-F9S0A2JE9-27160f1e97).   
 
 **Action Items**   
 
@@ -53,7 +53,6 @@ What You Can Do:
   <dt>DMN</dt>. 
   <dd>Decision Model and Notation.  Used along side business process, decision models and notation, are the business rules associated with each process step.  For example, if the purchase order is over 100,000 then it must be routed to VP level for approval.  or as simple as validating the phone number as the format +# ###-###-####</dd>
 </dl>. 
-
 [Download open source software to do BPMN and DMN at this link](https://bpmn.io)
 
 ### Archive
