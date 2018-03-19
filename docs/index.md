@@ -7,8 +7,62 @@ comments: true
 
 ## Ketch Sprint 2 Working Directory for KMUSS Project
 
+### TL;DR Summary. 
 
-### Required Tasks to be Completed by Tuesday March 13, 2018
+- Sprint 2 is slightly behind schedule due to the late start.  Sprint 3 will begin in parallel this week, in order to stay on schedule.
+- Sprint 1 is for the build out of the development environment to create the apps.  We are in parallel running sprint 1 and 2.  This may cause some delays in the high-fidelity web app rolling out.  However this does not impact the majority of sprint 2 deliverables.
+- Folks are beginning to use Slack, Great news!!  As we streamline the process, you will see the power that slack has to automated a lot of mundane tasks etc.
+- There has been side meetings with the CRM Opportunity, and CPQ groups.  Changes will need to be made.  This is mostly due to the overlap of functionality that exists in CPQ and CPM.  
+
+### Tasks Pending March 19, 2018
+
+__TOP Propietary ISSUE__. 
+
+
+
+
+
+
+__Answers to Questions__. 
+
+1.  Question on project collaboration tool.  See response [here](https://slack-files.com/T86E9TZ8Q-F9S031H2R-589f427c93).   
+2.  Logic of workflow routings.  See response [here](https://slack-files.com/T86E9TZ8Q-F9S05RFHB-f7049d4393).   
+3.  Process and Ability to Assign Status.  See response [here](https://slack-files.com/T86E9TZ8Q-F9RR5TAUC-a2f1d5dee2). 
+4.  Business Partner Types to Assign Roles and People to Steps, Objects etc.  See response [here](https://slack-files.com/T86E9TZ8Q-F9RP85LGK-a8ee96bf25).  
+5.  Updates to Sales Team.  See response [here](https://slack-files.com/T86E9TZ8Q-F9S0A2JE9-27160f1e97).   
+
+__To Do Action Items__. 
+
+1.  Chris or Christine -- set up meeting to discuss the new process flow for interaction with CRM, CPM and CPQ.  This meeting will need to be longer as it has lots of things to it.  Please schedule 2 hours.  
+
+2.  Dave / Mateo -- will publish by March 20 draft of design document, for input and review.  
+
+3.  Mateo / Jeff / Dave -- prepare local development environments for UI5 front end.
+
+__Logistics__. 
+
+1.  Power of Using Open Formats:  
+
+- The power of modern applications is because everyone got on board regarding open standards for interfaces, file formats and outputs, and many other things.
+- All software technology companies are now on board these new standards.  This includes Microsoft.  And the Office suite has the option to save in open standard notation.
+- Why this matters?  The tech industry has moved beyond vendor locked in practices.  Vendor lock in means you are at the mercy of the software company for innovation.  Whereas moving to open source and open format standards, means that everyone speaks the same language, and they are operating above the software suites.  This allows for companies to be once again, experts in their business processes, rather than having a software vendor claiming a best practice.  
+- What has this sparked?  The technology industry has begun to move away from massive central systems like SAP ECC, and replace them with many systems, distributed in many locations, with many operating systems, with many. vendors.  Also defined as distributed computing model.
+- Remember having your stuff hiding behind proprietary code, means can't be seen by the modern world.
+
+2.  Word documents on slack - is great, but it is just a file and that is it.  Save that document as an open word format, and now Slack and other tools, can index the contents, read the contents, update the contents etc.  Automation possiblities are endless.  
+
+3.  The new open standard for business processes and rules, is to use BPMN and DMN.
+<dl>
+  <dt>BPMN</dt>. 
+  <dd>Business Process Model and Notation.  Used to map out the business process flow of business process as it pertains to technology systems.  The notation is set up to automate the code generation, and the eventual roll functionality to business to own, rather than having to always go through the IT department.</dd>
+
+  <dt>DMN</dt>. 
+  <dd>Decision Model and Notation.  Used along side business process, decision models and notation, are the business rules associated with each process step.  For example, if the purchase order is over 100,000 then it must be routed to VP level for approval.  or as simple as validating the phone number as the format +# ###-###-####</dd>
+</dl>. 
+
+[Download open source software to do BPMN and DMN at this link](https://bpmn.io)
+
+### Archive
 1. Please complete this questionaire [at this link]({{ '/questions.html'| relative_url }})
 2. Please review the Agile Boards for Overall Project and Sprint 2.  
   - Epic list of requirments can be found [here](https://tree.taiga.io/project/davebeach-km-rollout/epics).  
