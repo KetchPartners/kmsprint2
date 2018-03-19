@@ -17,7 +17,8 @@ comments: true
 ### Tasks Pending March 19, 2018
 
 **Top Priority**:
-  -  CRM/CPM/CPQ change in process proposed.  We need to discuss further to nail down this design.  See ![New Process Flow](https://ketchpartners.github.io/kmsprint2/assets/images/bpmn-process-flow-sales-cpm.jpg) 
+  -  CRM/CPM/CPQ change in process proposed.  We need to discuss further to nail down this design.  See
+  [New Process Flow](https://raw.githubusercontent.com/KetchPartners/kmsprint2/master/docs/assets/images/bpmn-process-flow-sales-cpm.jpeg) 
 
 **Review Answers to Business Questions**:
   -  Question on project collaboration tool.  See response [here](https://slack-files.com/T86E9TZ8Q-F9S031H2R-589f427c93).   
