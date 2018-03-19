@@ -29,7 +29,8 @@ comments: true
 
 **Action Items**   
 
--  Chris or Christine -- set up meeting to discuss the new process flow for interaction with CRM, CPM and CPQ.  This meeting will need to be longer as it has lots of things to it.  Please schedule 2 hours.  
+-  All -- please review and update the issues by downloading them at [Taiga](https://ketchpartners.github.io/kmsprint2/) . 
+-  Chris or Christine -- set up meeting to discuss the new process flow for interaction with CRM, CPM and CPQ.  This meeting will need to be longer as it has lots of things to it.  Please schedule 2 hours.  
 
 -  Dave / Mateo -- will publish by March 20 draft of design document, for input and review.  
 
