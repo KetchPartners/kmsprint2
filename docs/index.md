@@ -5,14 +5,42 @@ comments: true
 # other options
 ---
 
-## Ketch Sprint 2 Working Directory for KMUSS Project
+# Ketch Sprint 2 Working Directory for KMUSS Project
 
-### Exec Summary
+## Current Releases
+
+Prototype 0.0.1
+Design Specification (planned to release 0.0.1 Wednesday March 21, 2018)
+Web Apps (planned for next sprint next week).
+
+
+## Exec Summary March 20, 2018
+
+- Sprint 2 is scope is being modified to account for other parallel activities that are happening that carry a higher priority.  These higher priority items are fundamental to get the next sprint operating more streamlined.
+- The reason for the delays is due to available resources are over-allocated.  To help address this Ketch has brought on another web app developer, Jeff Dederick.  Jeff can be found on slack and will help get back on schedule.
+- Ideally, we should be in a sprint where we can accept issues, then to make those changes and re-release the prototypes.  To be clear on how this process works.  Issues are collected and only through an official product release will the changes be incorporated.  Due to the parallel activities, we have NOT issued another release of the prototypes.  We will be doing that when we release the changes to the process flow and updates to the prototypes.  We currently are in RELEASE 0.0.1.  We will be issuing RELEASE 0.0.2 hopefully Thursday.  
+- A sprint is defined by a set period.  What doesn't get done in a sprint, gets put back to backlog and reissued to the next sprint, or to another sprint down the road.   This is decided in the sprint 1 stand-down meeting that we will be having on Monday.
+- Sprint 2 goal has thus been adjusted to focus on making sure we got all the business requirements nailed down.  on Wednesday, March 21 we will be releasing the 0.0.1 version of the specification document.  The goal of Sprint 2 reviews the specification document to get as many of the required details listed in the specification document.  So there is less emphasis on the prototype screens until next week and we are shifting attention to this spec document.  
+- While we wait for the release of the specification document, please continue to work through the details of the design for items like what statuses you need at each step, the rules of the statuses.  Also, the other questions had lots of decisions that we need the business to decide (ie business partner types etc).
+- Non-Sprint 2 Priority Items:
+  - Network infrastructure installation of SAP CPM, Fiori Decoupled, and HANA XSA (where the app's runtime is).  Currently, this is not live, and we need these systems to do an official app release.  
+  - There has been a major change to the process flow for sprint 2 to accommodate the Variant Config and CPQ processes.  This is currently being worked on and this will take a few days to re-issue a new process flow.  This is the higher priority than updating prototypes with changes etc.
+  - Designing the development to production pipeline (continuous integration), and supporting project management and issues systems.  This will improve our process, and is required to be done as the modern web apps cannot use the legacy SAP change management system.
+  - These items impact sprint 2 in the sense of resources (as the same resources are working on both).
+
+## Key Deliverables Over Next Day
+
+- Dave Beach to compile all comments, 
+
+## Archive Past Items
+
+### Exec Summary March 19, 2018
 
 - Sprint 2 is slightly behind schedule due to the late start.  Sprint 3 will begin in parallel this week, in order to stay on schedule.
-- Sprint 1 is for the build out of the development environment to create the apps.  We are in parallel running sprint 1 and 2.  This may cause some delays in the high-fidelity web app rolling out.  However this does not impact the majority of sprint 2 deliverables.
+- Sprint 1 is for the build-out of the development environment to create the apps.  We are in parallel running sprint 1 and 2.  This may cause some delays in the high-fidelity web app rolling out.  However, this does not impact the majority of sprint 2 deliverables.
 - Folks are beginning to use Slack, Great news!!  As we streamline the process, you will see the power that slack has to automated a lot of mundane tasks etc.
-- There has been side meetings with the CRM Opportunity, and CPQ groups.  Changes will need to be made.  This is mostly due to the overlap of functionality that exists in CPQ and CPM.  
+- There have been side meetings with the CRM Opportunity, and CPQ groups.  Changes will need to be made.  This is mostly due to the overlap of functionality that exists in CPQ and CPM.  
+
 
 ### Tasks Pending March 19, 2018
 
