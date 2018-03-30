@@ -2,6 +2,7 @@
 ### Agile Sprint #2 - Sales Prospect Opportunity, Project Estimate / Modeling, Send Values to CPQ Quotation System
 #### Repository Contents
 - BPMN Process Flow
+- Adding new content
 - Axure Low Fidelity to High Fidelity Prototype
 - Business Rule Framework
 - Requirements / Scope
@@ -18,4 +19,3 @@
 - Issue Management
 - Git Version Control
 - Back End Data Sources and Targets
-
